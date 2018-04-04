@@ -1,0 +1,11 @@
+{
+  "name": "wentoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve ./"
+  },
+  "author": "",
+  "license": "ISC"
+}
